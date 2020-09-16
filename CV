@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>CV</title>
+    </head>
+    <body>
+        <h3> My CV </h3>
+    <di>
+        
+        <li> My personal information</li>
+        <dd> My name is Hashem Ahmad Alsafwani.</dd>
+        <dd> I am 20 years old.</dd>
+        <dd> my birthday on 19/7/2001</dd>
+        <dd> My major is computer program.</dd>
+        <dd> I live in Safwa city.</dd>
+        
+    </di>
+    <img src="../../../../Desktop/My photo.jpg" alt="My photo"/>
+    </body>
+</html>
